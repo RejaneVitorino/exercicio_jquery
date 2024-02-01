@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    background-color: bisque;
+}
+
+header, form {
+    padding: 16px 0;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+input, button {
+    padding: 8px;
+    background-color: white;
+}
+button {
+    margin-left: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: aquamarine;
+    text-transform: uppercase;
+}
+ul {
+    text-align: center;
+}
